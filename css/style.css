@@ -1,12 +1,4 @@
 /* 
-***************************************
-Template Name: ZYAN - Personal Portfolio HTML Template
-Author:  
-Author Email: 
-website: 
-Version: 1.0
-Description: 
-***************************************
 
 CSS INDEX
 ===================================
@@ -1628,7 +1620,7 @@ main {
   display: block;
   width: 100px;
   height: 100px;
-  background: var(--colorPrimary);
+  /* background: var(--colorPrimary); */
   padding: 12px;
   border-radius: 5px;
   position: absolute;

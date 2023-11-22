@@ -1,8 +1,5 @@
 /**
- *	ZYAN - Personal Portfolio Templete (HTML)
- *	Author: codeefly
- *	Author URL: http://themeforest.net/user/codeefly
- *	Copyright © ZYAN by codeefly. All Rights Reserved.
+
  **/
 
 (function ($) {
